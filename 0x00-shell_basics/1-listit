@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(ls --format=single-column)
+ls -1
